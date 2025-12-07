@@ -41,7 +41,7 @@ A proof-of-concept exploit for CVE-2025-55182, a critical Remote Code Execution 
 
 ```bash
 # Clone or download this repository
-git clone <your-repo-url>
+git clone https://github.com/zr0n/react2shell
 cd react2shell
 
 # Install dependencies
@@ -244,7 +244,7 @@ are welcome. DO NOT submit contributions that enhance attack capabilities.
 Educational Use Only - No warranty provided
 
 ## 👤 Author
-
+[Luiz Fernando Ziron](https://instagram.com/luizfernandoziron)
 Created for cybersecurity education and awareness purposes.
 
 ## ⚖️ Legal Notice
